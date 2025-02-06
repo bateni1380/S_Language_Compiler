@@ -6,9 +6,9 @@ These codes were written for advanced theory of computation class presented by D
 
 In [S language](https://en.wikipedia.org/wiki/S_(programming_language)), each line of code is represented by an integer number. You can see the coding algorithm in [this book](https://books.google.de/books?id=6G_arEqHtysC&printsec=frontcover&redir_esc=y#v=onepage&q&f=false) in pages 65-67.
 
-The first notebook (`EX1_Decoder`) Inputs some integers, then it decodes these integers based on the books decoding, then it returns the corresponding codes in S language.
+The first notebook (`EX1_Decoder`) inputs some integers, then it decodes these integers based on the books decoding, then it returns the corresponding codes in S language.
 
-The second notebook (`EX2_Universal_Program`) Inputs some integers, then it decodes these integers based on the books decoding, then it gets a list of inputs ($x_{1}, x_{2}, ..., x_{n}$), then it runs the program (corresponding to those integers) on the input variables ($x_{1}, x_{2}, ..., x_{n}$). Then it prints all snapshots of the program in each step.
+The second notebook (`EX2_Universal_Program`) inputs some integers, then it decodes these integers based on the books decoding, then it gets a list of inputs ($x_{1}, x_{2}, ..., x_{n}$), then it runs the program (corresponding to those integers) on the input variables ($x_{1}, x_{2}, ..., x_{n}$). Then it prints all snapshots of the program in each step.
 
 # How to use it
 In first file there is a class named `Instruction`.
