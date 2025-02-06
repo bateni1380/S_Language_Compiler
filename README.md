@@ -12,7 +12,6 @@ In first file there is a class named `Instruction`
 You can print the instruction related to this code by running the following code:
 
 ```python
-code = #some integer#
 instruction = Instruction(code=code)
 print(instruction)
 ```
