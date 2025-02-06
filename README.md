@@ -4,12 +4,15 @@ These codes were written for advanced theory of computation class presented by D
 # Introduction
 ![Screenshot 2025-02-06 061817](https://github.com/user-attachments/assets/db2c7c6a-915f-496c-b920-a1a50795afbb)
 
-In [S language](https://en.wikipedia.org/wiki/S_(programming_language)), each line of code is represented by an integer number 
+In [S language](https://en.wikipedia.org/wiki/S_(programming_language)), each line of code is represented by an integer number.
+
 You can see the coding algorithm in [this book](https://books.google.de/books?id=6G_arEqHtysC&printsec=frontcover&redir_esc=y#v=onepage&q&f=false) in pages 65-67.
+
 This app decodes these code. The decoding is based on the book.
 
 # How to use it
-In first file there is a class named `Instruction`
+In first file there is a class named `Instruction`.
+
 You can print the instruction related to this code by running the following code:
 
 ```python
