@@ -14,3 +14,13 @@ code = #some integer#
 instruction = Instruction(code=code)
 print(instruction)
 ```
+
+Also in second file, you can run a progrm written in this language with some input variables, then get state of each variable in each snapshot of program.
+You can use `Program` class and `print_snapshots` function to see the result: 
+
+```
+p = Program(instruction_codes, input_variables)
+snapshots = p.run()
+
+print_snapshots(snapshots)
+```
