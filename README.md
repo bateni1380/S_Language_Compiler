@@ -2,7 +2,7 @@
 These codes were written for advanced theory of computation class presented by Dr. Alizadeh in Tehran University at Feb 2025
 
 # Introduction
-![image](https://github.com/user-attachments/assets/da5d1c98-d7d8-43d2-ab6a-cb8474565888)
+![Screenshot 2025-02-06 061817](https://github.com/user-attachments/assets/db2c7c6a-915f-496c-b920-a1a50795afbb)
 
 In [S language](https://en.wikipedia.org/wiki/S_(programming_language)), each line of code is represented by an integer number 
 You can see the coding algorithm in [this book](https://books.google.de/books?id=6G_arEqHtysC&printsec=frontcover&redir_esc=y#v=onepage&q&f=false) in pages 65-67.
