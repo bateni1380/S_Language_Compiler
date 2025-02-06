@@ -4,7 +4,7 @@ These codes were written for advanced theory of computation class presented by D
 ![image](https://github.com/user-attachments/assets/da5d1c98-d7d8-43d2-ab6a-cb8474565888)
 
 # Introduction
-In S language, each line of code is represented by an integer number (you can see the coding algorithm here)
+In ![S language](https://en.wikipedia.org/wiki/S_(programming_language)), each line of code is represented by an integer number (you can see the coding algorithm here)
 This app decodes these code.
 
 # How to use it
